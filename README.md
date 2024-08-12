@@ -1,2 +1,21 @@
-# GridRobot
-Vue 3 based application which simulates a 5x5 grid controlling a robot
+# robot-grid
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
